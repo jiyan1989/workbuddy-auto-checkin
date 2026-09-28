@@ -1,0 +1,14 @@
+# 运行产物：含本地明文 accessToken 缓存与本地日志，绝不提交
+checkin_token_cache.json
+checkin.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
